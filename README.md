@@ -1,3 +1,3 @@
-# ADTs-Binary-Tree-using-record-datatype-in-python-Alevels-CS-Paper-4
+# ADTs-Binary-Tree-using-2d array-in-python-Alevels-CS-Paper-4
 
-This code contains the binary tree implementation using the record data type in Python
+This code contains the binary tree implementation using the 2d array in Python
